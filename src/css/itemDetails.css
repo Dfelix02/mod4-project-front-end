@@ -1,0 +1,48 @@
+
+.details{
+    margin-top: 5%;
+    display: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.box{
+    max-width: 500px;
+    min-width: 290px;
+    margin: 25px;
+    display: center;
+}
+.game_image{
+    max-width: 600px;
+    min-width: 400px;
+    height: 300px;
+    width: 100px;
+    position: flex;
+    display: block;
+    object-fit: cover;
+    margin-left: 13%;
+
+}
+.add_to_cart{
+    display: center;
+    text-align: center;
+    margin-bottom: 15px;
+}
+ .game_name {
+    text-align: center;
+    color: #2196f3;
+}
+
+.block {
+    text-align: center;
+    color: #2196f3;
+}
+.add{
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    background: #2196f3;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 6px;
+}
